@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MakeMyTrip Flight Suite">
+  <test name="RoundTrip Flight Test">
+    <classes>
+      <class name="com.makemytrip.FlightSearchTest"/>
+    </classes>
+  </test>
+</suite>
