@@ -2,7 +2,7 @@
 <suite name="MakeMyTrip Flight Suite">
   <test name="RoundTrip Flight Test">
     <classes>
-      <class name="com.makemytrip.FlightSearchTest"/>
+      <class name="com.makemytrip.FlightSearchTestng"/>
     </classes>
   </test>
 </suite>
